@@ -233,6 +233,7 @@ body {
     flex-direction: column;
     gap: 5px;
     align-items: center;
+    margin-top: 30px;
   }
 
   .forecast-container {
